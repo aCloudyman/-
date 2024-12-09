@@ -1,0 +1,5 @@
+﻿  text.cpp
+D:\学习c++\妙妙工具\text\text\text.cpp(35,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学习c++\妙妙工具\text\text\text.cpp(55,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学习c++\妙妙工具\text\text\text.cpp(75,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  text.vcxproj -> D:\学习c++\妙妙工具\text\x64\Debug\text.exe
